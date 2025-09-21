@@ -41,6 +41,13 @@
       "password": "1234",
       "role": "manager",
       "id": 6
+    },
+    {
+      "name": "vladimir4",
+      "email": "vladimir4@ejemplo.com",
+      "password": "password",
+      "role": "user",
+      "id": 7
     }
   ],
   "projects": [
@@ -57,13 +64,6 @@
       "progress": 0,
       "createdAt": "2025-09-20T08:29:22.713Z",
       "id": 3
-    },
-    {
-      "name": "proyecto x",
-      "description": "proyecto de destruccion total",
-      "progress": 0,
-      "createdAt": "2025-09-20T10:30:29.651Z",
-      "id": 4
     },
     {
       "name": "TAREA",
@@ -108,34 +108,6 @@
       "projectId": 1,
       "assignee": "vladimir3",
       "id": 6
-    },
-    {
-      "title": "alcohol",
-      "status": "done",
-      "projectId": 4,
-      "assignee": "VLADIMIR",
-      "id": 7
-    },
-    {
-      "title": "DROGAS",
-      "status": "todo",
-      "projectId": 4,
-      "assignee": "VLADIMIR",
-      "id": 8
-    },
-    {
-      "title": "SEXO",
-      "status": "done",
-      "projectId": 4,
-      "assignee": "vladimir3",
-      "id": 9
-    },
-    {
-      "title": "UNA MAS",
-      "status": "doing",
-      "projectId": 4,
-      "assignee": "VLADIMIR",
-      "id": 10
     },
     {
       "title": "CUADERNO",
